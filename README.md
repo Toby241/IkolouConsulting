@@ -1,8 +1,6 @@
-# Ikolou Consulting - Vitrine Digitale & Chatbot Intelligent (Frontend)
+# amama - Vitrine Digitale & Chatbot Intelligent (Frontend)
 
 Bienvenue dans le dépôt du code source **Frontend** de la plateforme Ikolou Consulting. Ce projet présente une interface utilisateur ultra-moderne, fluide et interactive, conçue pour les cabinets de conseil et la transformation digitale.
-
-![Ikolou Preview](https://ikolou-consuting.netlify.app/)
 
 ## 🚀 À propos du projet
 
